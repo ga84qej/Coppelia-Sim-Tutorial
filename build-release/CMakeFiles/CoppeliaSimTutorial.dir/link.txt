@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/CoppeliaSimTutorial.dir/main.cpp.o -o CoppeliaSimTutorial  -ldqrobotics -ldqrobotics-interface-vrep -lpthread 

@@ -1,0 +1,7 @@
+/home/andrei/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/202.7660.37/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/shobhit/Sample_project
+-- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+-- looking for PCL_COMMON
+-- PCL optimization flags = $<$<COMPILE_LANGUAGE:CXX>:-msse4.2;-mfpmath=sse;-march=native;-mavx2>
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/shobhit/Sample_project/cmake-build-debug

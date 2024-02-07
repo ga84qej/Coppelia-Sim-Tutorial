@@ -1,0 +1,3 @@
+/home/shobhit/Sample_project/build-release/CMakeFiles/CoppeliaSimTutorial.dir
+/home/shobhit/Sample_project/build-release/CMakeFiles/edit_cache.dir
+/home/shobhit/Sample_project/build-release/CMakeFiles/rebuild_cache.dir
